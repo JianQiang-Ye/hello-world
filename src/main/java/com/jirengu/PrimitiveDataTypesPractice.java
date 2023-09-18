@@ -1,4 +1,4 @@
-public class Test1 {
+public class  PrimitiveDataTypesPractice{
     public static void main(String[] args) {
         byte age = 10;
         short height = 30000;
